@@ -1,3 +1,4 @@
+(Work in Progress)
 # Hi there, I'm Mahima Sharma. 👋
 
 ## 🚀 About Me
@@ -8,7 +9,7 @@ Currently I am a full-tile student at BCIT pursuing Software Systems Developer P
 - 🌱 I'm currently learning **new frameworks and best practices**
 - 👯 I'm looking to collaborate on **open source projects and innovative ideas**
 - 💬 Ask me about **web development, programming, and technology**
-- 📫 How to reach me: **sjharmamahima174@gmail.com**
+- 📫 How to reach me: **sharmamahima174@gmail.com**
 - ⚡ Fun fact: **Always curious and ready to learn something new!**
 
 ## 🛠️ Technologies & Tools
