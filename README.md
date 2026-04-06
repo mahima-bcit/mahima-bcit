@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm a passionate developer and tech enthusiast constantly exploring new technologies and building innovative solutions.
-Currently I am a full-tile student at BCIT pursuing Software Systems Developer Program. (Sept 2025 - May 2026)
+Currently I am a full-time student at BCIT pursuing Software Systems Developer Program. (Sept 2025 - May 2026)
 
 - 🔭 I'm currently working on **exciting projects at BCIT**
 - 🌱 I'm currently learning **new frameworks and best practices**
