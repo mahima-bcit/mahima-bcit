@@ -43,9 +43,7 @@ A youth-focused financial literacy web app built for a Canadian industry client,
 
 ## 📊 GitHub Stats
 
-![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahima-bcit&show_icons=true&theme=default)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mahima-bcit&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahima-bcit&layout=compact)
 
 ---
 
